@@ -1,7 +1,10 @@
 # GitRepository
-Teste
-Teste2
-teste3
-Teste4
-Teste
-Outro Teste
+
+O Projeto foi criado para teste.
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
+
+
